@@ -25,5 +25,8 @@ bash:
 
 2.Otwórz plik `index.html` w przeglądarce internetowej.
 
+## Projekt działa również pod linkiem:
+https://marek-wojdyla.github.io/Project-thailand-website/
+
 ## Author
 Marek Wojdyla
