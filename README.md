@@ -15,6 +15,7 @@ Repozytorium zawiera kod źródłowy dla strony internetowej poświęconej tropi
 * /img: Zawiera pliki multimedialne, takie jak zdjęcia i wideo.
 * /css: Style CSS dla strony internetowej.
 * /js: Skrypty JavaScript używane na stronie.
+* /sass: Zawiera style scss użyte na stronie internetowej które są kompilowane do pliku css
 * /pages: Pliki HTML dla poszczególnych sekcji strony.
 
 ## Jak Uruchomić Projekt Lokalnie
